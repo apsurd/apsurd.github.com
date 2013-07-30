@@ -83,7 +83,6 @@ I am a robot
 Maybe you want to print `robot` to the console 1000 times. Why not?
 
 ```ruby
-
 def robot_invasion
   puts("robot " * 1000)
 end
