@@ -1,10 +1,13 @@
 ---
 layout: post
-category : lessons
-tagline: "Something cool"
+category: lessons
+tagline: Something cool
+published: true
 ---
+
 {% include JB/setup %}
 
+This was made from Prose.io
 
 Let's get the whole "linebreak" thing out of the way. The next paragraph contains two phrases separated by a single newline character:
 
