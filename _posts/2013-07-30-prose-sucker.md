@@ -1,5 +1,7 @@
 ---
-published: false
+published: true
+layout: post
+category: tomato
 ---
 
 ## A New Post
